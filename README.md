@@ -14,6 +14,7 @@
 3. Tap on the screen using two fingers to hide the plane.
 4. Now tap on the ground to break.
 
+# Description:-
 Augmented Reality Floor breaking tech demo (Floor/ground texture capture script included)
 
 Few months ago we were given up with an interesting problem to solve. We have to break the floor using AR core ground plane detection but the tricky part is that the broken floor pieces should have the same real world texture as the floor/ground which is the critical part of realism.
